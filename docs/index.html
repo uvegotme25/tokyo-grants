@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>도쿄 지원금 보드 — 東京助成金ボード</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F2F3F0;
+    --card: #FAFAF8;
+    --ink: #1E1F1D;
+    --ink-soft: #55564F;
+    --muted: #8A8B84;
+    --shu: #C73E3A;      /* 朱 — 마감/스탬프 */
+    --ai: #165E83;       /* 藍 — 예술/링크 */
+    --line: #D8D9D3;
+    --display: "Shippori Mincho", serif;
+    --body: "Zen Kaku Gothic New", sans-serif;
+    --mono: "IBM Plex Mono", monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--paper); color: var(--ink); font-family: var(--body); line-height: 1.6; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px 80px; }
+
+  /* ── 마스트헤드 ── */
+  header { padding: 44px 0 20px; border-bottom: 3px solid var(--ink); }
+  .eyebrow { font-family: var(--mono); font-size: 11px; letter-spacing: .18em; color: var(--ink-soft); text-transform: uppercase; }
+  h1 { font-family: var(--display); font-weight: 800; font-size: clamp(30px, 6vw, 44px); letter-spacing: .02em; margin-top: 6px; }
+  h1 .jp { font-weight: 500; font-size: .45em; color: var(--ink-soft); margin-left: 12px; letter-spacing: .14em; }
+  .statline { display: flex; gap: 22px; margin-top: 14px; font-family: var(--mono); font-size: 12.5px; color: var(--ink-soft); flex-wrap: wrap; }
+  .statline b { color: var(--ink); font-weight: 500; }
+  .statline .arts b { color: var(--ai); }
+  .statline .new b { color: var(--shu); }
+
+  /* ── 컨트롤 ── */
+  .controls { position: sticky; top: 0; background: var(--paper); padding: 14px 0 12px; border-bottom: 1px solid var(--line); z-index: 5; }
+  .row1 { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  input[type="search"] {
+    flex: 1; min-width: 180px; padding: 9px 14px; font: 14px var(--body);
+    border: 1.5px solid var(--ink); border-radius: 3px; background: var(--card); color: var(--ink);
+  }
+  input[type="search"]:focus { outline: 2px solid var(--ai); outline-offset: 1px; }
+  .toggle {
+    display: inline-flex; align-items: center; gap: 8px; cursor: pointer; user-select: none;
+    padding: 9px 14px; border: 1.5px solid var(--ai); border-radius: 3px;
+    color: var(--ai); font-size: 13.5px; font-weight: 700; background: var(--card);
+  }
+  .toggle input { accent-color: var(--ai); width: 15px; height: 15px; cursor: pointer; }
+  .toggle.on { background: var(--ai); color: #fff; }
+  select {
+    padding: 9px 10px; font: 13px var(--body); border: 1.5px solid var(--line);
+    border-radius: 3px; background: var(--card); color: var(--ink); cursor: pointer;
+  }
+  .chips { display: flex; gap: 7px; flex-wrap: wrap; margin-top: 11px; }
+  .chip {
+    font: 12.5px var(--body); font-weight: 500; padding: 4px 11px; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 999px; background: var(--card); color: var(--ink-soft);
+  }
+  .chip.on { border-color: var(--ink); background: var(--ink); color: var(--paper); }
+  .chip:focus-visible, .toggle:focus-within, button:focus-visible { outline: 2px solid var(--ai); outline-offset: 2px; }
+
+  /* ── 리스트 ── */
+  #count { font-family: var(--mono); font-size: 12px; color: var(--muted); margin: 18px 0 4px; }
+  .item {
+    position: relative; background: var(--card); border: 1px solid var(--line); border-radius: 4px;
+    padding: 18px 108px 18px 20px; margin-top: 12px;
+  }
+  .item h2 { font-family: var(--display); font-weight: 700; font-size: 17px; line-height: 1.5; letter-spacing: .01em; }
+  .item h2 a { color: inherit; text-decoration: none; }
+  .item h2 a:hover { color: var(--ai); text-decoration: underline; text-underline-offset: 3px; }
+  .meta { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 9px; font-family: var(--mono); font-size: 12px; color: var(--ink-soft); }
+  .meta .amount { color: var(--ink); font-weight: 500; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .tag { font-size: 11.5px; padding: 2px 9px; border-radius: 2px; border: 1px solid var(--line); color: var(--ink-soft); }
+  .tag.arts { border-color: var(--ai); color: var(--ai); font-weight: 700; }
+  .badge-new {
+    display: inline-block; font-family: var(--mono); font-size: 10.5px; letter-spacing: .1em;
+    color: var(--shu); border: 1px solid var(--shu); padding: 1px 7px; border-radius: 2px;
+    vertical-align: 3px; margin-left: 8px;
+  }
+
+  /* ── 시그니처: D-day 한코 스탬프 ── */
+  .stamp {
+    position: absolute; top: 16px; right: 16px; width: 66px; height: 66px;
+    border: 2.5px double var(--shu); border-radius: 50%;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    color: var(--shu); transform: rotate(6deg);
+    font-family: var(--display); font-weight: 800;
+    mix-blend-mode: multiply; opacity: .92;
+  }
+  .stamp .d { font-size: 17px; line-height: 1.1; letter-spacing: .02em; }
+  .stamp .lbl { font-size: 8.5px; font-family: var(--mono); letter-spacing: .12em; margin-top: 2px; }
+  .stamp.calm { border-color: var(--muted); color: var(--muted); border-style: solid; border-width: 1.5px; transform: rotate(0deg); }
+  @media (prefers-reduced-motion: no-preference) {
+    .item { animation: rise .25s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(4px); } }
+  }
+  @media (max-width: 560px) {
+    .item { padding-right: 20px; }
+    .stamp { position: static; margin-top: 12px; transform: rotate(6deg); }
+  }
+
+  /* ── 빈 상태 ── */
+  .empty { margin-top: 40px; padding: 34px 26px; border: 1.5px dashed var(--line); border-radius: 4px; text-align: center; color: var(--ink-soft); font-size: 14px; }
+  .empty code { font-family: var(--mono); font-size: 12.5px; background: #E9EAE5; padding: 2px 6px; border-radius: 3px; }
+  footer { margin-top: 46px; font-family: var(--mono); font-size: 11px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Tokyo · Subsidy &amp; Grant Tracker</div>
+    <h1>도쿄 지원금 보드<span class="jp">東京助成金ボード</span></h1>
+    <div class="statline" id="stats"></div>
+  </header>
+
+  <div class="controls">
+    <div class="row1">
+      <input type="search" id="q" placeholder="키워드 검색 (제목·기관·내용)" aria-label="검색">
+      <label class="toggle" id="artsToggle"><input type="checkbox" id="artsOnly">예술만 보기</label>
+      <select id="sort" aria-label="정렬">
+        <option value="deadline">마감 임박순</option>
+        <option value="new">신규 등록순</option>
+        <option value="amount">지원금액 높은순</option>
+      </select>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="카테고리 필터"></div>
+  </div>
+
+  <div id="count"></div>
+  <div id="list"></div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const NEW_DAYS = 7;           // firstSeen 기준 NEW 표시 기간
+const URGENT_DAYS = 14;       // 빨간 스탬프 기준
+let DATA = null;
+let state = { q: "", artsOnly: false, tag: null, sort: "deadline" };
+
+const $ = (s) => document.querySelector(s);
+const esc = (s) => (s || "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const yen = (n) => n == null ? null : "¥" + Number(n).toLocaleString("ja-JP");
+const days = (iso) => iso ? Math.ceil((new Date(iso) - Date.now()) / 86400000) : null;
+const isNew = (it) => it.firstSeen && (Date.now() - new Date(it.firstSeen)) < NEW_DAYS * 86400000;
+
+async function load() {
+  try {
+    const res = await fetch("./data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    DATA = await res.json();
+    renderChips(); render();
+    $("#stats").innerHTML =
+      `<span>전체 <b>${DATA.stats.total}</b>건</span>` +
+      `<span class="arts">예술 <b>${DATA.stats.arts}</b>건</span>` +
+      `<span class="new">신규 <b>${DATA.items.filter(isNew).length}</b>건</span>`;
+    $("#foot").textContent = "마지막 갱신 " + new Date(DATA.updatedAt).toLocaleString("ko-KR") + " · 출처: jGrants (디지털청)";
+  } catch (e) {
+    $("#list").innerHTML = `<div class="empty">아직 데이터가 없어요.<br><br>
+      로컬에서 <code>node scripts/collect.js</code>를 실행하거나,<br>
+      GitHub Actions의 <code>collect</code> 워크플로우를 수동 실행하면 목록이 채워집니다.</div>`;
+  }
+}
+
+function renderChips() {
+  const counts = {};
+  DATA.items.forEach(it => it.tags.forEach(t => counts[t] = (counts[t] || 0) + 1));
+  const tags = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  $("#chips").innerHTML = tags.map(t =>
+    `<button class="chip" data-tag="${esc(t)}">${esc(t)} ${counts[t]}</button>`).join("");
+  $("#chips").addEventListener("click", (e) => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    state.tag = state.tag === b.dataset.tag ? null : b.dataset.tag;
+    document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c.dataset.tag === state.tag));
+    render();
+  });
+}
+
+function render() {
+  let items = DATA.items.slice();
+  if (state.artsOnly) items = items.filter(i => i.isArts);
+  if (state.tag) items = items.filter(i => i.tags.includes(state.tag));
+  if (state.q) {
+    const q = state.q.toLowerCase();
+    items = items.filter(i =>
+      (i.title + i.institution + (i.detailText || "") + i.tags.join(" ")).toLowerCase().includes(q));
+  }
+  if (state.sort === "deadline") items.sort((a, b) => (a.end || "9999").localeCompare(b.end || "9999"));
+  if (state.sort === "new") items.sort((a, b) => (b.firstSeen || "").localeCompare(a.firstSeen || ""));
+  if (state.sort === "amount") items.sort((a, b) => (b.maxAmount || 0) - (a.maxAmount || 0));
+
+  $("#count").textContent = items.length + "건 표시 중";
+  $("#list").innerHTML = items.map(card).join("") ||
+    `<div class="empty">조건에 맞는 지원금이 없어요. 필터를 풀어보세요.</div>`;
+}
+
+function card(it) {
+  const d = days(it.end);
+  const stamp = d == null ? "" :
+    `<div class="stamp ${d <= URGENT_DAYS ? "" : "calm"}" title="마감 ${esc((it.end||"").slice(0,10))}">
+       <div class="d">${d <= 0 ? "締切" : "D-" + d}</div><div class="lbl">締切</div></div>`;
+  const title = it.detailUrl
+    ? `<a href="${esc(it.detailUrl)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
+    : esc(it.title);
+  return `<article class="item">
+    ${stamp}
+    <h2>${title}${isNew(it) ? '<span class="badge-new">NEW</span>' : ""}</h2>
+    <div class="meta">
+      ${it.institution ? `<span>${esc(it.institution)}</span>` : ""}
+      ${it.maxAmount ? `<span class="amount">최대 ${yen(it.maxAmount)}</span>` : ""}
+      ${it.end ? `<span>마감 ${esc(it.end.slice(0,10))}</span>` : ""}
+      ${it.area ? `<span>${esc(it.area)}</span>` : ""}
+      ${it.source && it.source !== "jGrants" ? `<span style="color:var(--ai)">${esc(it.source)}</span>` : ""}
+    </div>
+    <div class="tags">${it.tags.map(t =>
+      `<span class="tag ${it.isArts && ["예술·문화","영상·사진","음악","공연·무대","디자인","콘텐츠·출판"].includes(t) ? "arts" : ""}">${esc(t)}</span>`).join("")}</div>
+  </article>`;
+}
+
+$("#q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+$("#artsOnly").addEventListener("change", (e) => {
+  state.artsOnly = e.target.checked;
+  $("#artsToggle").classList.toggle("on", state.artsOnly);
+  render();
+});
+$("#sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+load();
+</script>
+</body>
+</html>
