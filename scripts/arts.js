@@ -24,7 +24,7 @@ const SOURCES = [
 ];
 
 const MODEL = "claude-haiku-4-5-20251001";
-const GEMINI_MODEL = "gemini-2.5-flash-lite"; // 무료 티어 모델
+const GEMINI_MODEL = "gemini-3.1-flash-lite";
 const MAX_PAGE_CHARS = 16000;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
