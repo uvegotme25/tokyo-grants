@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-15T22:58:29.747Z",
+  "updatedAt": "2026-07-16T22:56:55.920Z",
   "stats": {
-    "total": 73,
-    "arts": 26,
-    "new": 2
+    "total": 65,
+    "arts": 17,
+    "new": 1
   },
   "items": [
     {
@@ -489,6 +489,24 @@
       "firstSeen": "2026-07-14T22:56:54.225Z"
     },
     {
+      "id": "a0WJ200000CDdAaMAL",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）",
+      "institution": "",
+      "area": "全国",
+      "maxAmount": 0,
+      "start": "2026-07-16T02:00:00.000Z",
+      "end": "2026-08-26T04:00:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [
+        "IT·디지털"
+      ],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL",
+      "detailText": "■目的・概要 ○ 太陽光パネルや車載用バッテリー等の再エネ関連製品では今後大量廃棄が見込まれています。また、ガラス等のベース素材では、忌避物質の混入や品質確保の観点から天然資源からの素材代替が十分に進んでいません。これらに対して省 CO2 型の国内リサイクル体制の整備が必要です。 自動化製品や IoT 機器、電動化製品の需要は依然として増加しており、これに伴い、センサーや電子基板類、バッテリーといった製品・部品の廃棄量についても増加することが見込まれています。こうした製品・部品には、非鉄金属・レアメタルが含有されていることから、適切にリユース、リサイクルすることによって、天然資源の節約、資源の海外依存度の低下、省CO2 化等の環境負荷低減が期待できます。 本事業では省CO2型のリサイクル技術向上と、デジタルを用いたトレーサビリティ確保によるリサイクル原料の品質向上を図り、未利用資源の活用体",
+      "source": "jGrants",
+      "firstSeen": "2026-07-16T22:56:55.920Z"
+    },
+    {
       "id": "a0WJ200000CDXuqMAH",
       "title": "令和８年度医療機関診療情報サイバーセキュリティ対策支援事業",
       "institution": "",
@@ -739,24 +757,6 @@
       "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
-      "id": "a0WJ200000CDbHxMAL",
-      "title": "【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金",
-      "institution": "",
-      "area": "東京都",
-      "maxAmount": 141000,
-      "start": "2026-07-15T00:00:00.000Z",
-      "end": "2027-02-26T14:59:00.000Z",
-      "employees": "従業員数の制約なし",
-      "tags": [
-        "IT·디지털"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL",
-      "detailText": "○ 過年度 に補助金の交付を受けた医療機関・薬局様へ 消費税及び地方消費税の仕入控除税額報告を受け付けております。 手引き及び申請書類を本ページ最下部の「詳細」よりダウンロードのうえご対応をお願いいたします。 ※今年度（令和８年度） 新たに補助金の交付を希望する医療機関・薬局様へ 以下の詳細ページよりご申請をお願いいたします。 ■目的・概要 医療機関等がマイナンバーカードを公費負担医療及び地方単独医療費助成の受給者証として利用可能とするために実施するPMH（Public Medical Hub）接続に必要なシステム改修等に係る費用の一部を補助します。 ■根拠法令 医療DX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金交付要綱 ■応募資格 医療DX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金交付要綱第４条のとおり ■地理条件 東京都内 ■補助額上",
-      "source": "jGrants",
-      "firstSeen": "2026-07-15T22:58:29.747Z"
-    },
-    {
       "id": "a0WJ200000CDL8JMAX",
       "title": "令和６年度補正予算　商用車等の電動化促進事業",
       "institution": "",
@@ -819,6 +819,24 @@
       "detailText": "■目的・概要 この制度は、 買換え が条件で、現在所有の東京都内の登録の車両を廃車し、新車を都内で登録する必要があります。 この制度には以下のようなメリットがあります。 1．長期プライムレートの低金利で融資あっせんを受けることができる 2．利子補給金等、補助金を受けることができる 利子の1/2、信用保証料の2/3を補助します。 利率は変動します。申請受付時点の利率が固定金利として適用されます。 ＊融資あっせんや補助金の受け取りには条件があります。詳しくは制度の概要及びパンフレットをご覧ください。 ■根拠法令 東京都環境保全資金融資あっせん要綱 ■応募資格 (1) 中小企業者（個人事業者を含む。）又は組合で、東京信用保証協会の保証対象事業 を営んでいること。 (2) 東京都内に住所（法人は、主たる事業所）を有し、かつ、事業を営んでいること。 (3) 東京都の法人事業税（又は個人事業税）等を滞",
       "source": "jGrants",
       "firstSeen": "2026-07-14T03:37:03.747Z"
+    },
+    {
+      "id": "a0WJ200000CDbHxMAL",
+      "title": "【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金",
+      "institution": "",
+      "area": "東京都",
+      "maxAmount": 141000,
+      "start": "2026-07-15T00:00:00.000Z",
+      "end": "2027-03-31T14:59:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [
+        "IT·디지털"
+      ],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL",
+      "detailText": "○ 過年度 に補助金の交付を受けた医療機関・薬局様へ 消費税及び地方消費税の仕入控除税額報告を受け付けております。 手引き及び申請書類を本ページ最下部の「詳細」よりダウンロードのうえご対応をお願いいたします。 ※今年度（令和８年度） 新たに補助金の交付を希望する医療機関・薬局様へ 以下の詳細ページよりご申請をお願いいたします。 ■目的・概要 医療機関等がマイナンバーカードを公費負担医療及び地方単独医療費助成の受給者証として利用可能とするために実施するPMH（Public Medical Hub）接続に必要なシステム改修等に係る費用の一部を補助します。 ■根拠法令 医療DX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金交付要綱 ■応募資格 医療DX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金交付要綱第４条のとおり ■地理条件 東京都内 ■補助額上",
+      "source": "jGrants",
+      "firstSeen": "2026-07-15T22:58:29.747Z"
     },
     {
       "id": "a0WJ200000CDY8hMAH",
@@ -1112,170 +1130,6 @@
       "detailUrl": "https://www.bunka.go.jp/seisaku/bijutsukan_hakubutsukan/shien/innovate_museum/",
       "detailText": "博物館の機能強化やイノベーションを促進するための支援事業。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-fe7c909dd45e",
-      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16350",
-      "detailText": "アーティスト・イン・レジデンスを通じて、海外の芸術家や芸術団体と双方向の国際文化交流の活性化を目的とするプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-d1a91e7f7f36",
-      "title": "フライト・グラント 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p15662",
-      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者を対象に、正式な招聘を受けた海外での公演やコンペティション等への参加に伴う渡航費を支援する。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-b5f0bd5f83b3",
-      "title": "セゾン・フェロー( I / II ) 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14547",
-      "detailText": "現代演劇・舞踊分野の芸術家や制作者を対象とした助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-54c9aacb5249",
-      "title": "サバティカル(休暇・充電) 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14548",
-      "detailText": "芸術活動を継続してきた個人を対象に、休暇や充電のための期間を支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-2845308d5acb",
-      "title": "創造環境イノベーション 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14550",
-      "detailText": "芸術創造の環境を改善・革新するための取り組みを支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-0cc6123f7b3d",
-      "title": "国際プロジェクト支援 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14549",
-      "detailText": "国際的な共同制作や交流を伴うプロジェクトを支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-c2219e294df4",
-      "title": "次世代の芸術創造を活性化する研究助成 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14551",
-      "detailText": "次世代の芸術創造を活性化させるための調査・研究活動を支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-8efc4aff4b57",
-      "title": "［パイロットプログラム］ 海外リサーチ活動支援 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p14552",
-      "detailText": "海外でのリサーチ活動を支援するパイロットプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-acbe9ee29e8c",
-      "title": "2026年度ヴィジティング・フェロー公募",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/topics/open-call-saison-artist-in-residence-visiting-fellows-2026.html",
-      "detailText": "海外のアーティストやアーツ・マネージャーに対し、森下スタジオを拠点とした滞在機会を提供するプログラム。",
-      "source": "セゾン文化財団",
       "firstSeen": "2026-07-14T03:56:44.243Z"
     }
   ]
