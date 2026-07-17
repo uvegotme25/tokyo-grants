@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-16T22:56:55.920Z",
+  "updatedAt": "2026-07-17T22:51:24.432Z",
   "stats": {
-    "total": 65,
-    "arts": 17,
-    "new": 1
+    "total": 73,
+    "arts": 27,
+    "new": 16
   },
   "items": [
     {
@@ -23,42 +23,6 @@
       "detailText": "文化財保護活動に対する助成。2027年度実施分の申請受付期間は2026年5月15日から7月5日まで。",
       "source": "朝日新聞文化財団",
       "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "a0WJ200000CDYvOMAX",
-      "title": "令和８年度 第１回 事業承継支援助成金",
-      "institution": "",
-      "area": "東京都",
-      "maxAmount": 2000000,
-      "start": "2026-06-01T05:00:00.000Z",
-      "end": "2026-07-17T08:00:00.000Z",
-      "employees": "300名以下",
-      "tags": [
-        "창업"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvOMAX",
-      "detailText": "■目的・概要 この助成金は、都内の中小企業者又は都内での創業を具体的に計画している者（創業予定の個人）が、次の各号の支援を受けて、事業承継又は経営改善を実施する過程において活用する外部の専門家等に委託して行う取組に対し、その経費の一部を助成することにより、都内中小企業の持続的な成長、発展に向けた新たな事業展開に寄与し、もって円滑な事業承継、再生につなげていくことを目的としています。 ①公益財団法人東京都中小企業振興公社（以下「公社」という。）が行う「事業承継・再生支援事業」 ②東京商工会議所、町田商工会議所及び東京都商工会連合会等が行う「地域持続化支援事業」 ③一般社団法人東京都信用金庫協会及び一般社団法人東京都信用組合協会が行った「地域金融機関による事業承継促進事業」又は同協会が行う「地域金融機関による事業承継ネットワーク構築支援事業」 ④東京信用保証協会が行う「専門家派遣事業」 ⑤東京",
-      "source": "jGrants",
-      "firstSeen": "2026-07-14T03:37:03.747Z"
-    },
-    {
-      "id": "a0WJ200000CDPL5MAP",
-      "title": "フィンテック産業における協業基盤整備支援事業補助金",
-      "institution": "",
-      "area": "東京都",
-      "maxAmount": 10000000,
-      "start": "2026-04-08T05:00:00.000Z",
-      "end": "2026-07-17T15:00:00.000Z",
-      "employees": "従業員数の制約なし",
-      "tags": [
-        "IT·디지털"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPL5MAP",
-      "detailText": "■目的 本 事業は、フィンテック企業が金融事業者等と協業する際、 協業先から求められるガバナンス体制やセキュリティ等の要件やその対応に活用できるノウハウ等の情報 （下線部について、以下「要件等」という。）を集約し発信することで、両者の協業を促進し、オープンイノベーションを通じた金融のデジタル化を推進することを目的とする。 ■補助対象事業 本補助金の交付対象となる事業は、フィンテック企業が金融事業者等と協働する際に求められる要件等を集約し、解説集やマニュアル等の成果物（以下「解説集等」という）にまとめ、発信する取組であり、かつ本事業の補助金の交付決定日以降で令和９年３月31 日までに実施する取組とする。 ■根拠法令 ・東京都補助金等交付規則（昭和37年東京都規則第141号） ・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号） ■応募資格（一部抜粋） （１） フ",
-      "source": "jGrants",
-      "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
       "id": "a0WJ200000CDZIyMAP",
@@ -988,8 +952,8 @@
       "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
-      "id": "arts-8adc9bdcd34f",
-      "title": "「スポーツ文化ツーリズムアワード 2026」公募要領",
+      "id": "arts-79dfc9072bd7",
+      "title": "スポーツ文化ツーリズムアワード 2026",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1001,9 +965,9 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94375201.html",
-      "detailText": "スポーツと文化・観光を融合させ、地域活性化に取り組む優れた取組を表彰するアワードの公募。",
+      "detailText": "スポーツと文化を融合させた観光資源の活用や、地域活性化に資する優れた取組を表彰するアワードの公募。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
       "id": "arts-fa9bbf8bba26",
@@ -1019,13 +983,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94397501.html",
-      "detailText": "近現代建造物等の継承を促進するため、活動支援体制のモデル構築に向けた調査を行う事業。",
+      "detailText": "近現代建造物等の保存・継承を促進するため、地域における活動支援体制のモデル構築を目指す調査事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
     },
     {
-      "id": "arts-fbb44686c2bd",
-      "title": "「令和8年度文化芸術団体の自律的・持続的運営促進事業」（総合評価落札方式）",
+      "id": "arts-af3ea10368c2",
+      "title": "令和8年度文化芸術団体の自律的・持続的運営促進事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1039,11 +1003,11 @@
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94403201.html",
       "detailText": "文化芸術団体の自律的かつ持続的な運営を促進するための支援事業（総合評価落札方式）。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
-      "id": "arts-762167720e35",
-      "title": "第42回国民文化祭分野別フェスティバルに係る企画・運営業務の公募",
+      "id": "arts-b6f780250da1",
+      "title": "第42回国民文化祭分野別フェスティバルに係る企画・運営業務",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1056,13 +1020,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94393701.html",
-      "detailText": "第42回国民文化祭における分野別フェスティバルの企画および運営業務の公募。",
+      "detailText": "第42回国民文化祭における分野別フェスティバルの企画および運営業務を委託する公募。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
-      "id": "arts-3c5f779cc783",
-      "title": "「2025-2026日中韓文化交流年」記念事業の募集",
+      "id": "arts-bcb9540d30bc",
+      "title": "2025-2026日中韓文化交流年 記念事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1074,13 +1038,31 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94217901.html",
-      "detailText": "日中韓三国の文化交流を促進する「2025-2026日中韓文化交流年」の記念事業を募集。",
+      "detailText": "日中韓三国の文化交流を促進する記念事業の募集。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
-      "id": "arts-0551f696a4f5",
-      "title": "令和8年度文字・活字文化資源活用推進事業の募集",
+      "id": "arts-55ad6d024161",
+      "title": "令和8年度国語に関するウェブサイトの充実事業",
+      "institution": "文化庁",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94409001.html",
+      "detailText": "国語施策に関するウェブサイトの充実を図るための事業（総合評価落札方式）。",
+      "source": "文化庁",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-98d66d591735",
+      "title": "令和8年度文字・活字文化資源活用推進事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1094,11 +1076,11 @@
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94379801.html",
       "detailText": "文字・活字文化の振興を図るため、関連資源の活用を推進する事業の募集。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
-      "id": "arts-7e70be5fd42b",
-      "title": "令和8年度「宗教法人格の不正利用対策のための実態把握事業（不正利用対策のためのモニタリング調査等）」業務",
+      "id": "arts-f6eb621b43dd",
+      "title": "令和8年度宗教法人格の不正利用対策のための実態把握事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1110,9 +1092,9 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94392901.html",
-      "detailText": "宗教法人格の不正利用対策を目的とした実態把握およびモニタリング調査業務（総合評価落札方式）。",
+      "detailText": "宗教法人格の不正利用対策に向けたモニタリング調査等の実態把握業務（総合評価落札方式）。",
       "source": "文化庁",
-      "firstSeen": "2026-07-14T03:56:44.243Z"
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     },
     {
       "id": "arts-ce3cbc6c48ad",
@@ -1128,9 +1110,176 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/bijutsukan_hakubutsukan/shien/innovate_museum/",
-      "detailText": "博物館の機能強化やイノベーションを促進するための支援事業。",
+      "detailText": "博物館の機能強化や新たな価値創造を目指す取組を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
+    },
+    {
+      "id": "arts-fe7c909dd45e",
+      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16350",
+      "detailText": "アーティスト・イン・レジデンスを通じて、海外の芸術家や芸術団体と双方向の国際文化交流の活性化を目的とするプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-d1a91e7f7f36",
+      "title": "フライト・グラント 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p15662",
+      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者を対象に、正式な招聘を受けた海外公演やコンペティション等への参加渡航費を支援する。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-b5f0bd5f83b3",
+      "title": "セゾン・フェロー( I / II ) 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14547",
+      "detailText": "現代演劇・舞踊分野のアーティストや制作者の活動を支援するフェローシッププログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-54c9aacb5249",
+      "title": "サバティカル(休暇・充電) 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14548",
+      "detailText": "現代演劇・舞踊分野で活動する芸術家や制作者の休暇・充電を支援するプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-2845308d5acb",
+      "title": "創造環境イノベーション 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14550",
+      "detailText": "現代演劇・舞踊の創造環境を改善・革新するための取り組みを支援する助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-0cc6123f7b3d",
+      "title": "国際プロジェクト支援 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14549",
+      "detailText": "現代演劇・舞踊分野における国際共同制作や国際交流プロジェクトを支援する。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-c2219e294df4",
+      "title": "次世代の芸術創造を活性化する研究助成 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14551",
+      "detailText": "次世代の芸術創造を活性化するための調査・研究活動を支援するプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-8efc4aff4b57",
+      "title": "［パイロットプログラム］ 海外リサーチ活動支援 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p14552",
+      "detailText": "海外でのリサーチ活動を支援するパイロットプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
+    },
+    {
+      "id": "arts-acbe9ee29e8c",
+      "title": "2026年度ヴィジティング・フェロー公募",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/vf2026_ApplicationGuidelines",
+      "detailText": "海外のアーティスト、アーツ・マネージャーに、森下スタジオを拠点とする滞在機会を提供するプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-17T22:51:24.433Z"
     }
   ]
 }
