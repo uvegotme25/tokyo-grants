@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-29T22:59:29.649Z",
+  "updatedAt": "2026-07-30T23:08:00.591Z",
   "stats": {
-    "total": 61,
-    "arts": 20,
-    "new": 0
+    "total": 67,
+    "arts": 27,
+    "new": 8
   },
   "items": [
     {
@@ -23,24 +23,6 @@
       "detailText": "文化財保護活動に対する助成。2027年度実施分の申請受付期間は2026年5月15日から7月5日まで。",
       "source": "朝日新聞文化財団",
       "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "a0WJ200000CDc0JMAT",
-      "title": "「スタートアップに対する経営管理・事業化支援人材の伴走支援モデルに係る調査事業」の公募",
-      "institution": "",
-      "area": "全国",
-      "maxAmount": 0,
-      "start": "2026-07-01T01:00:00.000Z",
-      "end": "2026-07-30T03:00:00.000Z",
-      "employees": "従業員数の制約なし",
-      "tags": [
-        "창업"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0JMAT",
-      "detailText": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「スタートアップに対する経営管理・事業化支援人材の伴走支援モデルに係る調査事業」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。 https://www.nedo.go.jp/koubo/CA2_100536.html 研究開発・実証事業を行いたい",
-      "source": "jGrants",
-      "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
       "id": "a0WJ200000CDbYtMAL",
@@ -1039,6 +1021,152 @@
       "firstSeen": "2026-07-14T03:56:44.243Z"
     },
     {
+      "id": "arts-3371d4eb3f95",
+      "title": "セゾン・フェロー( I / II ) 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16562",
+      "detailText": "日本の現代演劇・舞踊の振興を目的とした、2027年度のフェローシッププログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-6a48fa31bd17",
+      "title": "サバティカル(休暇・充電) 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16563",
+      "detailText": "芸術活動の継続と発展のための休暇・充電を支援する2027年度プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-b38009f2123b",
+      "title": "創造環境イノベーション 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16564",
+      "detailText": "芸術創造環境の革新を目指す活動を支援する2027年度プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-6b1385483bfc",
+      "title": "国際プロジェクト支援 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16565",
+      "detailText": "国際交流の促進に寄与するプロジェクトを支援する2027年度プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-6d5a462d4f04",
+      "title": "次世代の芸術創造を活性化する研究助成 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16566",
+      "detailText": "次世代の芸術創造を活性化するための研究活動を支援する2027年度プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-da4792c8092b",
+      "title": "海外リサーチ活動支援 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16567",
+      "detailText": "海外でのリサーチ活動を支援する2027年度プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-fe7c909dd45e",
+      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16350",
+      "detailText": "海外の芸術家や芸術団体と双方向の国際文化交流を目的としたレジデンスプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
+      "id": "arts-d1a91e7f7f36",
+      "title": "フライト・グラント 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p15662",
+      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者の海外渡航費を支援するプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-07-30T23:08:00.593Z"
+    },
+    {
       "id": "arts-acbe9ee29e8c",
       "title": "2026年度ヴィジティング・フェロー公募",
       "institution": "セゾン文化財団",
@@ -1052,26 +1180,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.saison.or.jp/topics/open-call-saison-artist-in-residence-visiting-fellows-2026.html",
-      "detailText": "海外のアーティスト、アーツ・マネージャーを対象に、森下スタジオを拠点とする滞在機会を提供するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-07-28T22:59:48.523Z"
-    },
-    {
-      "id": "arts-90753a4d6750",
-      "title": "2026年度フライト・グラント",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/topics/2026%e5%b9%b4%e5%ba%a6%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%88%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85.html",
-      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者を対象に、海外での公演やコンペティション参加のための渡航費を支援するプログラム。",
+      "detailText": "海外のアーティスト、アーツ・マネージャーに森下スタジオを拠点とする滞在機会を提供するプログラム。",
       "source": "セゾン文化財団",
       "firstSeen": "2026-07-28T22:59:48.523Z"
     }
