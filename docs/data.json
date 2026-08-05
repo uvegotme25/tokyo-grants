@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-04T23:03:54.154Z",
+  "updatedAt": "2026-08-05T22:59:13.698Z",
   "stats": {
-    "total": 64,
-    "arts": 25,
-    "new": 1
+    "total": 65,
+    "arts": 26,
+    "new": 9
   },
   "items": [
     {
@@ -805,8 +805,8 @@
       "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
-      "id": "arts-8adc9bdcd34f",
-      "title": "「スポーツ文化ツーリズムアワード 2026」公募要領",
+      "id": "arts-79dfc9072bd7",
+      "title": "スポーツ文化ツーリズムアワード 2026",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -818,9 +818,9 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94375201.html",
-      "detailText": "スポーツと文化・観光を融合させ、地域の魅力向上や活性化に取り組む優れた取組を表彰するアワードの公募。",
+      "detailText": "スポーツと文化を融合させた地域活性化の取組を募集・表彰するアワード。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
       "id": "arts-fa9bbf8bba26",
@@ -836,13 +836,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94397501.html",
-      "detailText": "近現代建造物等の保存・継承を促進するため、活動支援体制のモデル構築に向けた調査を行う事業の公募。",
+      "detailText": "近現代建造物の継承を促進するための支援体制モデル構築を目的とした調査事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
     },
     {
-      "id": "arts-e738193396f9",
-      "title": "令和8年度緊急的文化遺産保護国際貢献事業（専門家交流）実施委託業務の募集",
+      "id": "arts-8c7240a0dbe7",
+      "title": "令和8年度緊急的文化遺産保護国際貢献事業（専門家交流）実施委託業務",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -854,13 +854,31 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94413301.html",
-      "detailText": "国際的な文化遺産保護のため、専門家交流を通じた支援や協力を行う委託業務の公募。",
+      "detailText": "文化遺産保護のための国際的な専門家交流を推進する委託業務。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
-      "id": "arts-fbb44686c2bd",
-      "title": "「令和8年度文化芸術団体の自律的・持続的運営促進事業」（総合評価落札方式）",
+      "id": "arts-d8a04f24fd7c",
+      "title": "令和8年度無形文化遺産保護条約に係る国際動向調査事業委託",
+      "institution": "文化庁",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94419801.html",
+      "detailText": "無形文化遺産保護条約に関連する国際的な動向を調査する委託事業。",
+      "source": "文化庁",
+      "firstSeen": "2026-08-05T22:59:13.700Z"
+    },
+    {
+      "id": "arts-af3ea10368c2",
+      "title": "令和8年度文化芸術団体の自律的・持続的運営促進事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -872,13 +890,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94403201.html",
-      "detailText": "文化芸術団体の運営基盤を強化し、自律的かつ持続的な活動を促進するための支援事業。",
+      "detailText": "文化芸術団体の自律的かつ持続的な運営を促進するための支援事業。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
-      "id": "arts-762167720e35",
-      "title": "第42回国民文化祭分野別フェスティバルに係る企画・運営業務の公募",
+      "id": "arts-b6f780250da1",
+      "title": "第42回国民文化祭分野別フェスティバルに係る企画・運営業務",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -891,9 +909,9 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94393701.html",
-      "detailText": "国民文化祭における分野別フェスティバルの実施に向けた企画および運営業務の公募。",
+      "detailText": "国民文化祭における分野別フェスティバルの企画および運営業務の公募。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
       "id": "arts-7771fd040571",
@@ -909,13 +927,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/geijutsubunka/chiiki/93807301.html",
-      "detailText": "文化施設のサービス向上や活動活性化を目的とした運営改善の取組に対する補助金の2次募集。",
+      "detailText": "文化施設のサービス向上や活動活性化に向けた運営改善を支援する補助金の2次募集。",
       "source": "文化庁",
       "firstSeen": "2026-07-24T23:01:58.369Z"
     },
     {
-      "id": "arts-311d0ac7afff",
-      "title": "「2025-2026日中韓文化交流年」記念事業の募集について",
+      "id": "arts-be0a2fd0b682",
+      "title": "「2025-2026日中韓文化交流年」記念事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -927,13 +945,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94217901.html",
-      "detailText": "日中韓3か国間の文化交流を促進するため、記念事業として認定する取組の募集。",
+      "detailText": "日中韓の文化交流を促進する記念事業の募集。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
-      "id": "arts-333dcb21ab90",
-      "title": "令和8年度「国語に関するウェブサイトの充実事業」の募集（総合評価落札方式）",
+      "id": "arts-c2a54082b6bb",
+      "title": "令和8年度「国語に関するウェブサイトの充実事業」",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -945,13 +963,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94409001.html",
-      "detailText": "国語施策に関する情報を発信するウェブサイトの充実・運営を行う委託業務の公募。",
+      "detailText": "国語に関する情報を発信するウェブサイトの充実を図るための委託事業。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
-      "id": "arts-209b3340a08e",
-      "title": "令和8年度文字・活字文化資源活用推進事業の募集について",
+      "id": "arts-98d66d591735",
+      "title": "令和8年度文字・活字文化資源活用推進事業",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -963,13 +981,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94379801.html",
-      "detailText": "文字・活字文化の振興を図るため、関連資源の活用を推進する事業の募集。",
+      "detailText": "文字・活字文化資源の活用を推進するための事業募集。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
-      "id": "arts-7ec91df70ce7",
-      "title": "令和8年度「宗教法人格の不正利用対策のための実態把握事業」業務（総合評価落札方式）",
+      "id": "arts-d0f34c79e472",
+      "title": "令和8年度「宗教法人格の不正利用対策のための実態把握事業」",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -981,9 +999,9 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94392901.html",
-      "detailText": "宗教法人格の不正利用を防ぐための実態調査およびモニタリングを行う委託業務の公募。",
+      "detailText": "宗教法人格の不正利用対策に向けた実態調査およびモニタリング調査業務。",
       "source": "文化庁",
-      "firstSeen": "2026-07-31T23:03:23.452Z"
+      "firstSeen": "2026-08-05T22:59:13.700Z"
     },
     {
       "id": "arts-ce3cbc6c48ad",
@@ -999,7 +1017,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/bijutsukan_hakubutsukan/shien/innovate_museum/",
-      "detailText": "博物館の機能強化や新たな価値創造を目指す取組を支援する事業。",
+      "detailText": "博物館の革新的な取組を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
     },
