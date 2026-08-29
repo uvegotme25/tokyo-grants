@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T05:58:47.149Z",
+  "updatedAt": "2026-08-29T03:32:24.228Z",
   "stats": {
-    "total": 63,
-    "arts": 26,
-    "new": 0
+    "total": 64,
+    "arts": 27,
+    "new": 1
   },
   "items": [
     {
@@ -1118,6 +1118,24 @@
       "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者の海外渡航費を支援するプログラム。",
       "source": "セゾン文化財団",
       "firstSeen": "2026-08-07T01:30:11.534Z"
+    },
+    {
+      "id": "arts-01c10a274492",
+      "title": "2027年度外国人奨学生",
+      "institution": "野村財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.nomurafoundation.or.jp/scholar/guideline.html",
+      "detailText": "人文科学および社会科学分野を専攻する外国人留学生を対象とした奨学金プログラム。",
+      "source": "野村財団",
+      "firstSeen": "2026-08-29T03:32:24.229Z"
     }
   ]
 }
