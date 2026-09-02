@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T23:49:52.747Z",
+  "updatedAt": "2026-09-02T23:53:11.880Z",
   "stats": {
-    "total": 64,
-    "arts": 28,
-    "new": 8
+    "total": 57,
+    "arts": 20,
+    "new": 1
   },
   "items": [
     {
@@ -77,6 +77,22 @@
       "detailText": "■目的・概要 病院及び医科診療所におけるサイバーセキュリティ対策に係る経費を支援することにより、医療機関のデジタル化を促進し、安定的な医療提供体制を確保していくことを目的とする。 ■根拠法令 医療機関診療情報サイバーセキュリティ対策支援事業実施要綱 医療機関診療情報サイバーセキュリティ対策支援事業補助金交付要綱 ■補助対象者 医療機関診療情報サイバーセキュリティ対策支援事業補助金交付要綱第２のとおり ■補助基準額 (1)200床未満の病院 5,000千円 (2)200床以上500床未満の病院 12,500千円 (3)500床以上の病院 35,000千円 (4)有床診療所 4,375千円 (5)無床診療所 3,750千円 ■補助上限額 補助 基準額と対象経費の実支出額の低い方の金額を選定し、その金額と総事業費から寄附等を除いた金額を比較し、低い方の金額に補助率（1/2）を乗じた金額 ■備考 ",
       "source": "jGrants",
       "firstSeen": "2026-07-14T03:37:03.747Z"
+    },
+    {
+      "id": "a0W5h00000UcWryEAF",
+      "title": "東京都認定制度を活用した医師少数区域における勤務の推進事業補助金",
+      "institution": "",
+      "area": "東京都",
+      "maxAmount": 0,
+      "start": "2026-08-24T03:00:00.000Z",
+      "end": "2026-09-15T14:45:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWryEAF",
+      "detailText": "■目的・概要 医師少数区域等で勤務した医師の認定制度において、認定を取得した医師に対し、医師少数区域等での勤務を促すことにより、医師偏在の解消を図る。 ■根拠法令 東京都認定制度を活用した医師少数区域における勤務の推進事業実施要綱、東京都認定制度を活用した医師少数区域における勤務の推進事業交付要綱 ■応募資格 都内医師少数区域（西多摩保健医療圏、南多摩保健医療圏及び島しょ保健医療圏）に所在する病院又は診療所 ■補助対象経費 医療機関が、支援の対象となる医師（※1）に対して支出した以下の経費（※2）について、補助します。 具体的な対象経費及び基準額につきましては、「東京都認定制度を活用した医師少数区域における勤務の推進事業交付要綱」をご確認ください。 （1）医師少数区域で必要な医療等を学ぶための研修受講に必要な研修受講料及び旅費 （2）医師少数区域で必要な医療等を学ぶための新たな専門書購入に",
+      "source": "jGrants",
+      "firstSeen": "2026-09-02T23:53:11.880Z"
     },
     {
       "id": "a0WJ200000CDdauMAD",
@@ -987,154 +1003,6 @@
       "detailText": "博物館の機能強化や新たな価値創造を目指す取組を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-3371d4eb3f95",
-      "title": "セゾン・フェロー( I / II ) 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16562",
-      "detailText": "日本の現代演劇・舞踊の振興を目的とした、2027年度のフェローシッププログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-6a48fa31bd17",
-      "title": "サバティカル(休暇・充電) 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16563",
-      "detailText": "芸術家や制作者の休暇・充電を支援する2027年度の助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-b38009f2123b",
-      "title": "創造環境イノベーション 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16564",
-      "detailText": "舞台芸術の創造環境を改善・革新するための2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-6b1385483bfc",
-      "title": "国際プロジェクト支援 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16565",
-      "detailText": "国際交流を促進する舞台芸術プロジェクトを対象とした2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-6d5a462d4f04",
-      "title": "次世代の芸術創造を活性化する研究助成 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16566",
-      "detailText": "次世代の芸術創造を活性化するための調査・研究を支援する2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-da4792c8092b",
-      "title": "海外リサーチ活動支援 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16567",
-      "detailText": "海外でのリサーチ活動を支援する2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-fe7c909dd45e",
-      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16350",
-      "detailText": "海外の芸術家や団体と双方向の国際文化交流を活性化するためのレジデンスプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
-    },
-    {
-      "id": "arts-d1a91e7f7f36",
-      "title": "フライト・グラント 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p15662",
-      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者の海外渡航費を支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-01T23:49:52.749Z"
     }
   ]
 }
