@@ -1,29 +1,11 @@
 {
-  "updatedAt": "2026-09-02T23:53:11.880Z",
+  "updatedAt": "2026-09-03T23:48:41.741Z",
   "stats": {
-    "total": 57,
-    "arts": 20,
-    "new": 1
+    "total": 67,
+    "arts": 28,
+    "new": 11
   },
   "items": [
-    {
-      "id": "a0WJ200000CDZkYMAX",
-      "title": "令和８年度TOKYO戦略的イノベーション促進事業",
-      "institution": "",
-      "area": "東京都",
-      "maxAmount": 80000000,
-      "start": "2026-08-14T00:00:00.000Z",
-      "end": "2026-09-03T08:00:00.000Z",
-      "employees": "従業員数の制約なし",
-      "tags": [
-        "창업"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX",
-      "detailText": "■ 目的 都内中小企業等が「イノベーションマップ」（※）に基づき、自社のコア技術を基盤として、他企業、大学等の知見やノウハウを活用して事業化を目指す技術・製品開発を支援する事業です。 ■ 助成事業の要件 ①「イノベーションマップ」にある開発支援テーマに適合していること ②社外の知見やノウハウを活用すること ③早期に事業化を目指す研究開発であること ■ イノベーションマップの開発支援テーマ ①防災・減災・災害復旧 ②インフラメンテナンス ③安全・安心の確保 ④スポーツ振興・障害者スポーツ ⑤子育て・高齢者・障害者等の支援 ⑥医療・健康 ⑦環境・エネルギー・節電 ⑧国際的な観光・金融都市の実現 ⑨交通・物流・サプライチェーン ■ 助成対象者 ・都内の本店又は支店で実質的な事業活動を行っている中小企業者（会社及び個人事業者）等 ・都内での創業を具体的に計画している個人 ■ 助成対象期間 令和9年",
-      "source": "jGrants",
-      "firstSeen": "2026-08-14T22:23:03.663Z"
-    },
     {
       "id": "a0WJ200000CDctfMAD",
       "title": "令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」",
@@ -59,6 +41,42 @@
       "detailText": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。 https://www.nedo.go.jp/koubo/FF2_100470.html 研究開発・実証事業を行いたい",
       "source": "jGrants",
       "firstSeen": "2026-08-07T01:30:11.081Z"
+    },
+    {
+      "id": "a0WJ200000CDaMaMAL",
+      "title": "GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募",
+      "institution": "",
+      "area": "全国",
+      "maxAmount": 0,
+      "start": "2026-09-03T01:00:00.000Z",
+      "end": "2026-09-08T03:00:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [
+        "창업"
+      ],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMaMAL",
+      "detailText": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。 https://www.nedo.go.jp/koubo/CA2_100521.html 研究開発・実証事業を行いたい",
+      "source": "jGrants",
+      "firstSeen": "2026-09-03T23:48:41.741Z"
+    },
+    {
+      "id": "a0WJ200000CDaMfMAL",
+      "title": "ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業第10回公募",
+      "institution": "",
+      "area": "全国",
+      "maxAmount": 0,
+      "start": "2026-09-03T01:00:00.000Z",
+      "end": "2026-09-08T03:00:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [
+        "창업"
+      ],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMfMAL",
+      "detailText": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業第10回公募」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。 https://www.nedo.go.jp/koubo/CA2_100521.html 研究開発・実証事業を行いたい",
+      "source": "jGrants",
+      "firstSeen": "2026-09-03T23:48:41.741Z"
     },
     {
       "id": "a0WJ200000CDXuqMAH",
@@ -111,6 +129,22 @@
       "detailText": "■目的・概要 この助成金は、都内の中小企業者又は都内での創業を具体的に計画している者（創業予定の個人）が、次の各号の支援を受けて、事業承継又は経営改善を実施する過程において活用する外部の専門家等に委託して行う取組に対し、その経費の一部を助成することにより、都内中小企業の持続的な成長、発展に向けた新たな事業展開に寄与し、もって円滑な事業承継、再生につなげていくことを目的としています。 ①公益財団法人東京都中小企業振興公社（以下「公社」という。）が行う「事業承継・再生支援事業」 ②東京商工会議所、町田商工会議所及び東京都商工会連合会等が行う「地域持続化支援事業」 ③一般社団法人東京都信用金庫協会及び一般社団法人東京都信用組合協会が行った「地域金融機関による事業承継促進事業」又は同協会が行う「地域金融機関による事業承継ネットワーク構築支援事業」 ④東京信用保証協会が行う「専門家派遣事業」 ⑤東京",
       "source": "jGrants",
       "firstSeen": "2026-08-03T23:01:00.167Z"
+    },
+    {
+      "id": "a0W5h00000UcWrwEAF",
+      "title": "東京都専門医認定支援事業補助金",
+      "institution": "",
+      "area": "東京都",
+      "maxAmount": 0,
+      "start": "2026-09-02T00:00:00.000Z",
+      "end": "2026-09-24T15:00:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF",
+      "detailText": "■目的・概要 専門医制度の仕組みが円滑に構築され、地域医療への配慮や研修機会の確保に資するよう、指導医派遣等を行う医療機関に対する支援を行うことにより、専門医の質の一層の向上や医療提供体制の改善を図ることを目的とする。 ■根拠法令 東京都専門医認定支援事業実施要綱、東京都専門医認定支援事業交付要綱 ■応募資格 東京都内に所在する病院若しくは診療所 ■補助対象経費 医療機関が以下の事業を実施する場合、必要な経費（※）を補助いたします。 ※具体的な対象経費及び基準額につきましては、「東京都専門医認定支援事業補助金交付要綱」をご確認ください。 1 東京都の医師不足地域の研修医療機関において専門研修を促進するため、地域医療に配慮した専門研修プログラムの策定を行う。 2 東京都の医師不足地域の研修医療機関において、地域医療に配慮した形で小児科、救急科、産婦人科及び総合診療の専門医研修を促進するため、",
+      "source": "jGrants",
+      "firstSeen": "2026-09-03T23:48:41.741Z"
     },
     {
       "id": "a0WJ200000CDdgEMAT",
@@ -1003,6 +1037,154 @@
       "detailText": "博物館の機能強化や新たな価値創造を目指す取組を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
+    },
+    {
+      "id": "arts-3371d4eb3f95",
+      "title": "セゾン・フェロー( I / II ) 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16562",
+      "detailText": "日本の現代演劇・舞踊の振興を目的とした、2027年度のフェローシッププログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-6a48fa31bd17",
+      "title": "サバティカル(休暇・充電) 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16563",
+      "detailText": "芸術家や制作者の休暇・充電を支援する2027年度の助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-b38009f2123b",
+      "title": "創造環境イノベーション 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16564",
+      "detailText": "舞台芸術の創造環境を改善・革新するための2027年度助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-6b1385483bfc",
+      "title": "国際プロジェクト支援 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16565",
+      "detailText": "国際交流を促進する舞台芸術プロジェクトを対象とした2027年度助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-6d5a462d4f04",
+      "title": "次世代の芸術創造を活性化する研究助成 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16566",
+      "detailText": "次世代の芸術創造を活性化するための調査・研究を支援する2027年度助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-da4792c8092b",
+      "title": "海外リサーチ活動支援 2027年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16567",
+      "detailText": "海外でのリサーチ活動を支援する2027年度助成プログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-fe7c909dd45e",
+      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p16350",
+      "detailText": "海外の芸術家や団体と双方向の国際文化交流を活性化するためのレジデンスプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
+    },
+    {
+      "id": "arts-d1a91e7f7f36",
+      "title": "フライト・グラント 2026年度",
+      "institution": "セゾン文化財団",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화",
+        "공연·무대"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.saison.or.jp/application#p15662",
+      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者の海外渡航費を支援するプログラム。",
+      "source": "セゾン文化財団",
+      "firstSeen": "2026-09-03T23:48:44.085Z"
     }
   ]
 }
