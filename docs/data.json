@@ -1,29 +1,11 @@
 {
-  "updatedAt": "2026-09-03T23:48:41.741Z",
+  "updatedAt": "2026-09-04T23:46:54.132Z",
   "stats": {
-    "total": 67,
-    "arts": 28,
-    "new": 11
+    "total": 58,
+    "arts": 20,
+    "new": 0
   },
   "items": [
-    {
-      "id": "a0WJ200000CDctfMAD",
-      "title": "令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」",
-      "institution": "",
-      "area": "全国",
-      "maxAmount": 720000000,
-      "start": "2026-08-07T05:00:00.000Z",
-      "end": "2026-09-04T06:00:00.000Z",
-      "employees": "従業員数の制約なし",
-      "tags": [
-        "IT·디지털"
-      ],
-      "isArts": false,
-      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD",
-      "detailText": "■目的・概要 蓄電池は、2050年カーボンニュートラル実現のカギであり、電気自動車等のモビリティの動力源や、太陽光・風力等の再生可能エネルギー導入拡大に伴い、その出力変動の調整力等への活用、５Ｇ通信基地局やデータセンター等の重要施設のバックアップ電源、各種ＩＴ機器の電源など、今後の電化社会・デジタル社会において様々な用途で利用される重要物資である。世界的にもその需要が急拡大しており、蓄電池の製造・利用環境の持続可能性すなわちサステナビリティや蓄電池の安全性の確保が求められるとともに、サステナビリティや経済安全保障を足掛かりに、上流資源から川下の製造基盤まで、サプライチェーン全体を囲い込む動きが世界各国で進んでいる。特に、欧州電池規則におけるバッテリーパスポートに関する詳細運用方法に係る実施法の提示などが、今年度中にも予定されている。 このような中、我が国では、2022年8月に策定した蓄電池",
-      "source": "jGrants",
-      "firstSeen": "2026-08-07T22:35:39.395Z"
-    },
     {
       "id": "a0WJ200000CDd5cMAD",
       "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募",
@@ -1037,154 +1019,6 @@
       "detailText": "博物館の機能強化や新たな価値創造を目指す取組を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-07-14T03:56:44.243Z"
-    },
-    {
-      "id": "arts-3371d4eb3f95",
-      "title": "セゾン・フェロー( I / II ) 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16562",
-      "detailText": "日本の現代演劇・舞踊の振興を目的とした、2027年度のフェローシッププログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-6a48fa31bd17",
-      "title": "サバティカル(休暇・充電) 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16563",
-      "detailText": "芸術家や制作者の休暇・充電を支援する2027年度の助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-b38009f2123b",
-      "title": "創造環境イノベーション 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16564",
-      "detailText": "舞台芸術の創造環境を改善・革新するための2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-6b1385483bfc",
-      "title": "国際プロジェクト支援 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16565",
-      "detailText": "国際交流を促進する舞台芸術プロジェクトを対象とした2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-6d5a462d4f04",
-      "title": "次世代の芸術創造を活性化する研究助成 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16566",
-      "detailText": "次世代の芸術創造を活性化するための調査・研究を支援する2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-da4792c8092b",
-      "title": "海外リサーチ活動支援 2027年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16567",
-      "detailText": "海外でのリサーチ活動を支援する2027年度助成プログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-fe7c909dd45e",
-      "title": "セゾン・アーティスト・イン・レジデンス 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p16350",
-      "detailText": "海外の芸術家や団体と双方向の国際文化交流を活性化するためのレジデンスプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
-    },
-    {
-      "id": "arts-d1a91e7f7f36",
-      "title": "フライト・グラント 2026年度",
-      "institution": "セゾン文化財団",
-      "area": "",
-      "maxAmount": null,
-      "start": null,
-      "end": null,
-      "employees": "",
-      "tags": [
-        "예술·문화",
-        "공연·무대"
-      ],
-      "isArts": true,
-      "detailUrl": "https://www.saison.or.jp/application#p15662",
-      "detailText": "日本を拠点に活動する芸術家・制作者・舞台技術者の海外渡航費を支援するプログラム。",
-      "source": "セゾン文化財団",
-      "firstSeen": "2026-09-03T23:48:44.085Z"
     }
   ]
 }
