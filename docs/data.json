@@ -1,11 +1,27 @@
 {
-  "updatedAt": "2026-10-09T01:46:02.374Z",
+  "updatedAt": "2026-10-10T01:32:39.126Z",
   "stats": {
-    "total": 77,
-    "arts": 32,
-    "new": 2
+    "total": 80,
+    "arts": 34,
+    "new": 7
   },
   "items": [
+    {
+      "id": "a0W5h00000UcWrwEAF",
+      "title": "東京都専門医認定支援事業補助金",
+      "institution": "",
+      "area": "東京都",
+      "maxAmount": 0,
+      "start": "2026-09-02T00:00:00.000Z",
+      "end": "2026-10-12T15:00:00.000Z",
+      "employees": "従業員数の制約なし",
+      "tags": [],
+      "isArts": false,
+      "detailUrl": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF",
+      "detailText": "■目的・概要 専門医制度の仕組みが円滑に構築され、地域医療への配慮や研修機会の確保に資するよう、指導医派遣等を行う医療機関に対する支援を行うことにより、専門医の質の一層の向上や医療提供体制の改善を図ることを目的とする。 ■根拠法令 東京都専門医認定支援事業実施要綱、東京都専門医認定支援事業交付要綱 ■応募資格 東京都内に所在する病院若しくは診療所 ■補助対象経費 医療機関が以下の事業を実施する場合、必要な経費（※）を補助いたします。 ※具体的な対象経費及び基準額につきましては、「東京都専門医認定支援事業補助金交付要綱」をご確認ください。 1 東京都の医師不足地域の研修医療機関において専門研修を促進するため、地域医療に配慮した専門研修プログラムの策定を行う。 2 東京都の医師不足地域の研修医療機関において、地域医療に配慮した形で小児科、救急科、産婦人科及び総合診療の専門医研修を促進するため、",
+      "source": "jGrants",
+      "firstSeen": "2026-10-10T01:32:39.126Z"
+    },
     {
       "id": "a0WJ200000CDeZuMAL",
       "title": "令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）",
@@ -75,7 +91,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.asahizaidan.or.jp/grant/grant01.html",
-      "detailText": "芸術活動に対する助成。2027年度に実施される芸術活動を対象としており、WEB申請にて受け付けています。",
+      "detailText": "芸術活動に対する助成。2027年度実施分の申請受付期間は2026年7月1日から10月25日まで。",
       "source": "朝日新聞文化財団",
       "firstSeen": "2026-10-07T01:13:58.118Z"
     },
@@ -970,6 +986,24 @@
       "firstSeen": "2026-07-14T03:37:03.747Z"
     },
     {
+      "id": "arts-25a8cdaf963b",
+      "title": "令和8年度 文化財建造物の耐震対策に係る講習会 募集案内について",
+      "institution": "文化庁",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94448501.html",
+      "detailText": "文化財建造物の耐震対策に関する知識や技術の習得を目的とした講習会の募集案内。",
+      "source": "文化庁",
+      "firstSeen": "2026-10-10T01:32:40.772Z"
+    },
+    {
       "id": "arts-fa9bbf8bba26",
       "title": "令和8年度近現代建造物等の継承促進に資する活動支援体制モデル構築に向けた調査事業",
       "institution": "文化庁",
@@ -983,7 +1017,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94397501.html",
-      "detailText": "近現代建造物等の継承促進に向けた活動支援体制のモデル構築を目的とした調査事業。",
+      "detailText": "近現代建造物等の継承を促進するため、活動支援体制のモデル構築を目指す調査事業。",
       "source": "文化庁",
       "firstSeen": "2026-10-06T02:04:57.191Z"
     },
@@ -1001,7 +1035,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94413301.html",
-      "detailText": "緊急的な文化遺産保護のための国際的な専門家交流を実施する委託業務。",
+      "detailText": "緊急的な文化遺産保護のため、専門家交流を通じた国際貢献事業を実施する委託業務。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
     },
@@ -1037,13 +1071,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94431801.html",
-      "detailText": "文化資源の保存・継承と活用を好循環させるための予備的な事例調査研究。",
+      "detailText": "文化資源の保存・継承と活用を好循環させるための事例調査研究を行う事業。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
     },
     {
-      "id": "arts-32ee7a722d68",
-      "title": "令和8年度文化芸術団体の自律的・持続的運営促進事業（総合評価落札方式）",
+      "id": "arts-a2c656398303",
+      "title": "「令和8年度文化芸術団体の自律的・持続的運営促進事業」（総合評価落札方式）について",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1057,7 +1091,7 @@
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94403201.html",
       "detailText": "文化芸術団体の自律的かつ持続的な運営を促進するための支援事業。",
       "source": "文化庁",
-      "firstSeen": "2026-10-08T01:35:30.377Z"
+      "firstSeen": "2026-10-10T01:32:40.772Z"
     },
     {
       "id": "arts-762167720e35",
@@ -1074,7 +1108,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94393701.html",
-      "detailText": "第42回国民文化祭における分野別フェスティバルの企画および運営業務。",
+      "detailText": "第42回国民文化祭における分野別フェスティバルの企画および運営業務の公募。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
     },
@@ -1092,13 +1126,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/geijutsubunka/chiiki/93807301.html",
-      "detailText": "文化施設のサービス刷新や活動活性化など、運営改善を推進するための補助金。",
+      "detailText": "文化施設のサービス刷新や活動活性化など、運営改善を推進するための補助金2次募集。",
       "source": "文化庁",
       "firstSeen": "2026-10-06T02:04:57.191Z"
     },
     {
-      "id": "arts-3647d1121c24",
-      "title": "文化芸術活動基盤強化基金「クリエイター等育成支援（コンテンツ制作・発信を支える中核的専門人材育成・確保等）」（第2次）",
+      "id": "arts-8394ee68d368",
+      "title": "文化芸術活動基盤強化基金「クリエイター等育成支援（コンテンツ制作・発信を支える中核的専門人材育成・確保等）」（第2次）について",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1111,13 +1145,13 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94446401.html",
-      "detailText": "コンテンツ制作・発信を支える中核的な専門人材の育成や確保を支援する基金事業。",
+      "detailText": "コンテンツ制作や発信を支える中核的な専門人材の育成・確保を支援する基金事業の第2次募集。",
       "source": "文化庁",
-      "firstSeen": "2026-10-07T01:13:58.118Z"
+      "firstSeen": "2026-10-10T01:32:40.772Z"
     },
     {
-      "id": "arts-3c5f779cc783",
-      "title": "「2025-2026日中韓文化交流年」記念事業の募集",
+      "id": "arts-311d0ac7afff",
+      "title": "「2025-2026日中韓文化交流年」記念事業の募集について",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1129,13 +1163,31 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94217901.html",
-      "detailText": "「2025-2026日中韓文化交流年」を記念する事業の募集。",
+      "detailText": "「2025-2026日中韓文化交流年」の趣旨に賛同する記念事業の募集。",
       "source": "文化庁",
-      "firstSeen": "2026-10-08T01:35:30.377Z"
+      "firstSeen": "2026-10-10T01:32:40.772Z"
     },
     {
-      "id": "arts-0551f696a4f5",
-      "title": "令和8年度文字・活字文化資源活用推進事業の募集",
+      "id": "arts-f930e5d7b2f9",
+      "title": "令和8年度「文字・活字文化振興にかかる諸外国事情調査」の募集について（総合落札評価）",
+      "institution": "文化庁",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94448301.html",
+      "detailText": "諸外国における文字・活字文化振興の現状や施策に関する調査事業。",
+      "source": "文化庁",
+      "firstSeen": "2026-10-10T01:32:40.772Z"
+    },
+    {
+      "id": "arts-209b3340a08e",
+      "title": "令和8年度文字・活字文化資源活用推進事業の募集について",
       "institution": "文化庁",
       "area": "",
       "maxAmount": null,
@@ -1149,7 +1201,7 @@
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94379801.html",
       "detailText": "文字・活字文化資源の活用を推進するための事業募集。",
       "source": "文化庁",
-      "firstSeen": "2026-10-08T01:35:30.377Z"
+      "firstSeen": "2026-10-10T01:32:40.772Z"
     },
     {
       "id": "arts-36e5f7e88e3b",
@@ -1183,7 +1235,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/bijutsukan_hakubutsukan/shien/innovate_museum/",
-      "detailText": "博物館の革新的な取り組みを支援する事業。",
+      "detailText": "博物館の機能強化や新たな価値創造を支援する事業。",
       "source": "文化庁",
       "firstSeen": "2026-10-06T02:04:57.191Z"
     },
