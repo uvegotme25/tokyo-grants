@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T00:18:31.953Z",
+  "updatedAt": "2026-10-16T00:06:20.429Z",
   "stats": {
-    "total": 82,
-    "arts": 35,
-    "new": 2
+    "total": 83,
+    "arts": 36,
+    "new": 1
   },
   "items": [
     {
@@ -1035,7 +1035,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94397501.html",
-      "detailText": "近現代建造物の継承を促進するための支援体制モデル構築に向けた調査事業。",
+      "detailText": "近現代建造物等の継承促進に向けた活動支援体制のモデル構築を目的とした調査事業。",
       "source": "文化庁",
       "firstSeen": "2026-10-06T02:04:57.191Z"
     },
@@ -1053,7 +1053,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94413301.html",
-      "detailText": "緊急的な文化遺産保護のための専門家交流に関する委託業務。",
+      "detailText": "緊急的な文化遺産保護のための国際的な専門家交流事業の実施委託。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
     },
@@ -1071,7 +1071,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94419801.html",
-      "detailText": "無形文化遺産保護条約に関連する国際的な動向を調査する委託事業。",
+      "detailText": "無形文化遺産保護条約に関連する国際的な動向を調査する事業の委託。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
     },
@@ -1092,6 +1092,24 @@
       "detailText": "文化資源の保存・継承と活用を好循環させるための予備的な事例調査研究。",
       "source": "文化庁",
       "firstSeen": "2026-10-08T01:35:30.377Z"
+    },
+    {
+      "id": "arts-610d99de6069",
+      "title": "令和8年度カモシカモニタリング調査等解析に係る業務について（随意契約事前確認公募）",
+      "institution": "文化庁",
+      "area": "",
+      "maxAmount": null,
+      "start": null,
+      "end": null,
+      "employees": "",
+      "tags": [
+        "예술·문화"
+      ],
+      "isArts": true,
+      "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94451201.html",
+      "detailText": "カモシカのモニタリング調査およびその解析業務に関する公募。",
+      "source": "文化庁",
+      "firstSeen": "2026-10-16T00:06:20.431Z"
     },
     {
       "id": "arts-a2c656398303",
@@ -1144,7 +1162,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/seisaku/geijutsubunka/chiiki/93807301.html",
-      "detailText": "文化施設のサービス刷新や活動活性化、運営改善を支援する補助金の2次募集。",
+      "detailText": "文化施設のサービス刷新や活動活性化を支援する補助金の2次募集。",
       "source": "文化庁",
       "firstSeen": "2026-10-06T02:04:57.191Z"
     },
@@ -1272,7 +1290,7 @@
       ],
       "isArts": true,
       "detailUrl": "https://www.bunka.go.jp/shinsei_boshu/kobo/94450601.html",
-      "detailText": "著作権者不明等の裁定制度に関する業務改革（BPR）のための調査研究。",
+      "detailText": "著作権裁定制度の業務改革（BPR）に向けた調査研究。",
       "source": "文化庁",
       "firstSeen": "2026-10-15T00:18:32.424Z"
     },
